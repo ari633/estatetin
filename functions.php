@@ -9,7 +9,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 	exit;
 }
 
-define( 'ESTATEIN_VERSION', '1.2.0' );
+define( 'ESTATEIN_VERSION', '1.3.0' );
 
 require get_template_directory() . '/inc/property-meta.php';
 require get_template_directory() . '/inc/post-types.php';
